@@ -9,5 +9,4 @@ document.getElementById("output3").innerHTML = id;
 document.getElementById("output4").innerHTML = age;
 document.getElementById("output5").innerHTML =  stud;
 output1.style .color = "red"
-output3.style .fontfimly = "16"
 output2.style .color= "blue"
